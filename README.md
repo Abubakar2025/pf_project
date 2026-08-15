@@ -1,2 +1,2 @@
 # pf_project
-Bank Management System using basic programming fundamental concepts
+Bank Management System using basic Programming Fundamental concepts
